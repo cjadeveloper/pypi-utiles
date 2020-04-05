@@ -15,17 +15,19 @@ Como lo dice en su misma web:
 
 ## Los paquetes que siempre tengo a mano
 
-- [autopep8](https://pypi.org/project/autopep8/)
+- [black](https://pypi.org/project/black/)
+- [isort](https://pypi.org/project/isort/)
+- [poetry](https://pypi.org/project/poetry/)
 - [conda](https://pypi.org/project/conda/)
 - [Pillow](https://pypi.org/project/Pillow/)
 - [ptpython](https://pypi.org/project/ptpython/)
-- [pylint](https://pypi.org/project/pylint/)
 - [python-decouple](https://pypi.org/project/python-decouple/)
 - [tqdm](https://pypi.org/project/tqdm/)
 - [virtualenvwrapper](https://pypi.org/project/virtualenvwrapper/)
 
 ## Test
 
+- [pytest](https://pypi.org/project/pytest/)
 - [coverage](https://pypi.org/project/coverage/)
 - [django-nose](https://pypi.org/project/django-nose/)
 - [factory-boy](https://pypi.org/project/factory_boy/)
@@ -37,4 +39,4 @@ Como lo dice en su misma web:
 - [django-allauth](https://pypi.org/project/django-allauth/)
 - [django-bulma](https://pypi.org/project/django-bulma/) 
 - [django-ckeditor](https://pypi.org/project/django-ckeditor/)
-- [psycopg2-binary]()
+- [psycopg2-binary](https://pypi.org/project/psycopg2-binary/)
